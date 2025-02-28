@@ -1,4 +1,4 @@
-# 🚀 AI Government Chatbot  
+# 🚀 AI Government Chatbot  (DocGenie)
 
 ## 📌 Overview  
 Navigating government services like **passport renewal, tax filing, and driver’s license applications** can be confusing. This **AI-powered chatbot** simplifies the process by providing **step-by-step guidance, eligibility checks, and document submission assistance**—making government services more accessible and user-friendly.  
